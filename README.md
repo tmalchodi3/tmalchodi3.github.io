@@ -1,10 +1,11 @@
 # Welcome to my project page
 
-You can use the [editor on GitHub](https://github.com/tmalchodi3/tmalchodi3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Below are a selection of my projects
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Electric Guitar
+<img src="images/guitar.png" alt="guitar" class="inline"/>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
