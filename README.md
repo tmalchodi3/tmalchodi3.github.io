@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to my project page
 
 You can use the [editor on GitHub](https://github.com/tmalchodi3/tmalchodi3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
